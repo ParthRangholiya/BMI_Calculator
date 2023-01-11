@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 import 'height_page.dart';
@@ -418,21 +417,7 @@ class _MyHomePageViewState extends State<MyHomePageView> {
                       );
                     },
                   );
-                  //   Navigator.push(
-                  //     context,
-                  //     MaterialPageRoute(
-                  //       builder: (context) => ResultePageView(
-                  //         bmicalculation: {
-                  //           "age": A,
-                  //           "weight": B,
-                  //           "gender": G,
-                  //           "height": C ? heigh : heigh1.toInt(),
-                  //           "clclulation": clculaton(),
-                  //         },
-                  //       ),
-                  //     ),
-                  //   );
-                
+                 
                 });
               },
               child: const Padding(
